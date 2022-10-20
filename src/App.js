@@ -30,7 +30,7 @@ function Result({ correct }) {
       <h2>
         Вы отгадали {correct} ответа из {questions.length}
       </h2>
-      <a href="/">
+      <a href="https://bogusfrontend.github.io/quiz-app/">
         <button>Попробовать снова</button>
       </a>
     </div>
